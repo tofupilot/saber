@@ -1,0 +1,152 @@
+03-27 00:15:59 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 220:Plugin executed on: 'linux'
+03-27 00:15:59 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 221:Plugin executed with python version: '3.12.9 (main, Nov 10 2011, 15:00:00) [GCC 14.2.0]'
+03-27 00:15:59 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 222:KiCad build version: 9.0.0
+03-27 00:15:59 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 223:Plugin version: 1.0.14
+03-27 00:16:00 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 228:Screen sizes: [wx.Size(2048, 1280), wx.Size(3440, 1440)]
+03-27 00:16:00 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 235:Dialog size: wx.Size(213, 81)
+03-27 00:16:00 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 237:Char size: 23
+03-27 00:16:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 30:Starting to archive 3D models
+03-27 00:16:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: J7
+03-27 00:16:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${LIBELEC}/3D/Connectors/SMD-1_BD2.0-H10.0.step
+03-27 00:16:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${LIBELEC}/3D/Connectors/SMD-1_BD2.0-H10.0.step
+03-27 00:16:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: J3
+03-27 00:16:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${LIBELEC}/3D/Connectors/SMD-1_BD2.0-H10.0.step
+03-27 00:16:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${LIBELEC}/3D/Connectors/SMD-1_BD2.0-H10.0.step
+03-27 00:16:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: J6
+03-27 00:16:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${LIBELEC}/3D/Connectors/SMD-1_BD2.0-H10.0.step
+03-27 00:16:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${LIBELEC}/3D/Connectors/SMD-1_BD2.0-H10.0.step
+03-27 00:16:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: J4
+03-27 00:16:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${LIBELEC}/3D/Connectors/SMD-1_BD2.0-H10.0.step
+03-27 00:16:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${LIBELEC}/3D/Connectors/SMD-1_BD2.0-H10.0.step
+03-27 00:16:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: G***
+03-27 00:16:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: J5
+03-27 00:16:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${LIBELEC}/3D/Connectors/SMD-1_BD2.0-H10.0.step
+03-27 00:16:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${LIBELEC}/3D/Connectors/SMD-1_BD2.0-H10.0.step
+03-27 00:16:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: C1
+03-27 00:16:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl
+03-27 00:16:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl
+03-27 00:16:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: R3
+03-27 00:16:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/R_0603.step
+03-27 00:16:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 78:Can not find model defined with enviroment variable:
+${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/R_0603.step
+03-27 00:16:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/R_0603.step
+03-27 00:16:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/R_0603.step
+03-27 00:16:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: D2
+03-27 00:16:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD9_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SMA.wrl
+03-27 00:16:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD9_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SMA.wrl
+03-27 00:16:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: D1
+03-27 00:16:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD9_3DMODEL_DIR}/LED_SMD.3dshapes/LED_0603_1608Metric.wrl
+03-27 00:16:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD9_3DMODEL_DIR}/LED_SMD.3dshapes/LED_0603_1608Metric.wrl
+03-27 00:16:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: C7
+03-27 00:16:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/C_0603.step
+03-27 00:16:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 78:Can not find model defined with enviroment variable:
+${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/C_0603.step
+03-27 00:16:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/C_0603.step
+03-27 00:16:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/C_0603.step
+03-27 00:16:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: U4
+03-27 00:16:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${LIBELEC}/3D/Components/SOP-8_L4.9-W3.9-P1.27-LS6.0-BL-1.step
+03-27 00:16:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${LIBELEC}/3D/Components/SOP-8_L4.9-W3.9-P1.27-LS6.0-BL-1.step
+03-27 00:16:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: D3
+03-27 00:16:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD9_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SMA.wrl
+03-27 00:16:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD9_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SMA.wrl
+03-27 00:16:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: U1
+03-27 00:16:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${LIBELEC}/3D/Components/WIFIM-SMD_39P-L25.5-W18.0-H3.1-P1.27.step
+03-27 00:16:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${LIBELEC}/3D/Components/WIFIM-SMD_39P-L25.5-W18.0-H3.1-P1.27.step
+03-27 00:16:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: R4
+03-27 00:16:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/R_0603.step
+03-27 00:16:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 78:Can not find model defined with enviroment variable:
+${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/R_0603.step
+03-27 00:16:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/R_0603.step
+03-27 00:16:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/R_0603.step
+03-27 00:16:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: S1
+03-27 00:16:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/SW-SMD_4P-L5.1-W5.1-P3.70-LS6.5-TL-2.step
+03-27 00:16:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 78:Can not find model defined with enviroment variable:
+${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/SW-SMD_4P-L5.1-W5.1-P3.70-LS6.5-TL-2.step
+03-27 00:16:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/SW-SMD_4P-L5.1-W5.1-P3.70-LS6.5-TL-2.step
+03-27 00:16:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/SW-SMD_4P-L5.1-W5.1-P3.70-LS6.5-TL-2.step
+03-27 00:16:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: R2
+03-27 00:16:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/R_0603.step
+03-27 00:16:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 78:Can not find model defined with enviroment variable:
+${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/R_0603.step
+03-27 00:16:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/R_0603.step
+03-27 00:16:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/R_0603.step
+03-27 00:16:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: R6
+03-27 00:16:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD9_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl
+03-27 00:16:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD9_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl
+03-27 00:16:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: R1
+03-27 00:16:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/R_0603.step
+03-27 00:16:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 78:Can not find model defined with enviroment variable:
+${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/R_0603.step
+03-27 00:16:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/R_0603.step
+03-27 00:16:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/R_0603.step
+03-27 00:16:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: U2
+03-27 00:16:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD9_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23-6.wrl
+03-27 00:16:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD9_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23-6.wrl
+03-27 00:16:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: C2
+03-27 00:16:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/C_0603.step
+03-27 00:16:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 78:Can not find model defined with enviroment variable:
+${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/C_0603.step
+03-27 00:16:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/C_0603.step
+03-27 00:16:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/C_0603.step
+03-27 00:16:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: U5
+03-27 00:16:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${LIBELEC}/3D/Components/SC-70-6_L2.1-W1.3-H1.0-LS2.1-P0.65.step
+03-27 00:16:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${LIBELEC}/3D/Components/SC-70-6_L2.1-W1.3-H1.0-LS2.1-P0.65.step
+03-27 00:16:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: J2
+03-27 00:16:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${LIBELEC}/3D/Connectors/USB-C-SMD_HC-TYPE-C-6P-LT023A.step
+03-27 00:16:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${LIBELEC}/3D/Connectors/USB-C-SMD_HC-TYPE-C-6P-LT023A.step
+03-27 00:16:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: U3
+03-27 00:16:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD9_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23-5.wrl
+03-27 00:16:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD9_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23-5.wrl
+03-27 00:16:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: C6
+03-27 00:16:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/C_0603.step
+03-27 00:16:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 78:Can not find model defined with enviroment variable:
+${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/C_0603.step
+03-27 00:16:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/C_0603.step
+03-27 00:16:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/C_0603.step
+03-27 00:16:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: C3
+03-27 00:16:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl
+03-27 00:16:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl
+03-27 00:16:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: G***
+03-27 00:16:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: C8
+03-27 00:16:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/C_0603.step
+03-27 00:16:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 78:Can not find model defined with enviroment variable:
+${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/C_0603.step
+03-27 00:16:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/C_0603.step
+03-27 00:16:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/C_0603.step
+03-27 00:16:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: J1
+03-27 00:16:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${LIBELEC}/3D/Connectors/TYPE-C-SMD_918-468K2029Y50001.step
+03-27 00:16:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${LIBELEC}/3D/Connectors/TYPE-C-SMD_918-468K2029Y50001.step
+03-27 00:16:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: C4
+03-27 00:16:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/C_0603.step
+03-27 00:16:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 78:Can not find model defined with enviroment variable:
+${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/C_0603.step
+03-27 00:16:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/C_0603.step
+03-27 00:16:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/C_0603.step
+03-27 00:16:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: C5
+03-27 00:16:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl
+03-27 00:16:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl
+03-27 00:16:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: S2
+03-27 00:16:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/SW-SMD_4P-L5.1-W5.1-P3.70-LS6.5-TL-2.step
+03-27 00:16:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 78:Can not find model defined with enviroment variable:
+${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/SW-SMD_4P-L5.1-W5.1-P3.70-LS6.5-TL-2.step
+03-27 00:16:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/SW-SMD_4P-L5.1-W5.1-P3.70-LS6.5-TL-2.step
+03-27 00:16:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/SW-SMD_4P-L5.1-W5.1-P3.70-LS6.5-TL-2.step
+03-27 00:16:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: R5
+03-27 00:16:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/R_0603.step
+03-27 00:16:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 78:Can not find model defined with enviroment variable:
+${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/R_0603.step
+03-27 00:16:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/R_0603.step
+03-27 00:16:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/R_0603.step
+03-27 00:16:09 com_github_MitjaNemec_Archive3DModels.archive_3d_models 164:Did not succeed to copy 3D models!
+('R3', '${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/R_0603.step')
+('C7', '${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/C_0603.step')
+('R4', '${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/R_0603.step')
+('S1', '${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/SW-SMD_4P-L5.1-W5.1-P3.70-LS6.5-TL-2.step')
+('R2', '${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/R_0603.step')
+('R1', '${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/R_0603.step')
+('C2', '${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/C_0603.step')
+('C6', '${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/C_0603.step')
+('C8', '${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/C_0603.step')
+('C4', '${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/C_0603.step')
+('S2', '${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/SW-SMD_4P-L5.1-W5.1-P3.70-LS6.5-TL-2.step')
+('R5', '${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/R_0603.step')
