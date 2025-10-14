@@ -4983,6 +4983,16 @@
 		)
 		(uuid "555503ec-bbad-493d-9972-7b261f25bb3c")
 	)
+	(label "DF+"
+		(at 134.4651 69.85 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "5f99af98-6c13-444b-a654-e0b8b2cc0092")
+	)
 	(label "GND"
 		(at 140.97 147.32 180)
 		(effects
@@ -5002,6 +5012,16 @@
 			(justify right bottom)
 		)
 		(uuid "66c2871c-bd98-4e76-9dec-f81248ec9a75")
+	)
+	(label "DF-"
+		(at 134.62 67.31 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "72e68f00-79d3-421c-8aec-14ca3dad5585")
 	)
 	(label "CC2"
 		(at 29.21 128.27 0)
@@ -5072,6 +5092,16 @@
 			(justify left bottom)
 		)
 		(uuid "96ddbe4f-45b0-4abd-9f01-ad313e58c5dd")
+	)
+	(label "DFR+"
+		(at 146.05 69.85 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "ad410d06-40d6-4615-b12e-c1d0e64d1fc4")
 	)
 	(label "GND"
 		(at 254 133.35 0)
@@ -5152,6 +5182,16 @@
 			(justify right bottom)
 		)
 		(uuid "ee40a9ca-5932-4f1e-8cb4-cca38f6b9e1a")
+	)
+	(label "DFR-"
+		(at 146.2049 67.31 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f56d5954-1243-452a-aa51-57e1409efe50")
 	)
 	(symbol
 		(lib_id "power:GND")
