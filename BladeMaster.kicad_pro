@@ -687,6 +687,204 @@
           "label": "Description",
           "name": "Description",
           "show": false
+        },
+        {
+          "group_by": false,
+          "label": "COMPONENTLINK1DESCRIPTION",
+          "name": "COMPONENTLINK1DESCRIPTION",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "COMPONENTLINK1URL",
+          "name": "COMPONENTLINK1URL",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "COMPONENTLINK2DESCRIPTION",
+          "name": "COMPONENTLINK2DESCRIPTION",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "COMPONENTLINK2URL",
+          "name": "COMPONENTLINK2URL",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "CONTINUOUSFORWARDCURRENT",
+          "name": "CONTINUOUSFORWARDCURRENT",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "DATASHEET-URL",
+          "name": "DATASHEET-URL",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "GENDER",
+          "name": "GENDER",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "IR",
+          "name": "IR",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "LCSC",
+          "name": "LCSC",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "ALTIUM_VALUE",
+          "name": "ALTIUM_VALUE",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "MANUFACTURER PART NUMBER",
+          "name": "MANUFACTURER PART NUMBER",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Max voltage",
+          "name": "Max voltage",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Mouser",
+          "name": "Mouser",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Note",
+          "name": "Note",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "PACKAGING",
+          "name": "PACKAGING",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "PART-NUMBER",
+          "name": "PART-NUMBER",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "PINS",
+          "name": "PINS",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "PITCH",
+          "name": "PITCH",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "POWER",
+          "name": "POWER",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "PRECISION",
+          "name": "PRECISION",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "RATEDVOLTAGE",
+          "name": "RATEDVOLTAGE",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "SIZE",
+          "name": "SIZE",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "SUPPLIER 1",
+          "name": "SUPPLIER 1",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "SUPPLIER 2",
+          "name": "SUPPLIER 2",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "SUPPLIER 3",
+          "name": "SUPPLIER 3",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "SUPPLIER FOOTPRINT 2",
+          "name": "SUPPLIER FOOTPRINT 2",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "SUPPLIER PART NUMBER 1",
+          "name": "SUPPLIER PART NUMBER 1",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "SUPPLIER PART NUMBER 2",
+          "name": "SUPPLIER PART NUMBER 2",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Sim.Pins",
+          "name": "Sim.Pins",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "TYPE",
+          "name": "TYPE",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "VALUE",
+          "name": "VALUE",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "VMAX",
+          "name": "VMAX",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "CERAMICTYPE",
+          "name": "CERAMICTYPE",
+          "show": false
         }
       ],
       "filter_string": "",
