@@ -561,6 +561,8 @@
     "net_colors": {
       "/3.3V": "rgb(0, 132, 0)",
       "/5V": "rgb(204, 102, 0)",
+      "/VBUS": "rgb(221, 133, 0)",
+      "/VBUS_SWITCHED": "rgb(163, 96, 194)",
       "GND": "rgb(0, 0, 132)"
     },
     "netclass_assignments": null,
