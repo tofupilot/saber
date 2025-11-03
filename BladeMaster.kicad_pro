@@ -228,7 +228,7 @@
           "drill": 0.0
         },
         {
-          "diameter": 0.5,
+          "diameter": 0.45,
           "drill": 0.3
         },
         {
@@ -561,6 +561,7 @@
     "net_colors": {
       "/3.3V": "rgb(0, 132, 0)",
       "/5V": "rgb(204, 102, 0)",
+      "/VBUS": "rgb(204, 102, 0)",
       "GND": "rgb(0, 0, 132)"
     },
     "netclass_assignments": null,
