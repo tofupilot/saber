@@ -7,7 +7,7 @@
 	(title_block
 		(title "BladeMaster")
 		(date "2025-10-13")
-		(rev "h2")
+		(rev "h4")
 		(company "TofuPilot")
 		(comment 1 "NeoPixel blade controller for the TofuSaber")
 	)
