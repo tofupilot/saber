@@ -48,7 +48,7 @@
         "silk_text_thickness": 0.15,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.3
+          "min_clearance": 0.5
         }
       },
       "diff_pair_dimensions": [
@@ -228,7 +228,7 @@
           "drill": 0.0
         },
         {
-          "diameter": 0.5,
+          "diameter": 0.45,
           "drill": 0.3
         },
         {
@@ -438,7 +438,7 @@
       "different_unit_net": "error",
       "duplicate_reference": "error",
       "duplicate_sheet_names": "error",
-      "endpoint_off_grid": "ignore",
+      "endpoint_off_grid": "warning",
       "extra_units": "error",
       "footprint_filter": "ignore",
       "footprint_link_issues": "warning",
@@ -448,7 +448,7 @@
       "label_dangling": "error",
       "label_multiple_wires": "warning",
       "lib_symbol_issues": "warning",
-      "lib_symbol_mismatch": "ignore",
+      "lib_symbol_mismatch": "warning",
       "missing_bidi_pin": "warning",
       "missing_input_pin": "warning",
       "missing_power_pin": "error",
@@ -561,8 +561,7 @@
     "net_colors": {
       "/3.3V": "rgb(0, 132, 0)",
       "/5V": "rgb(204, 102, 0)",
-      "/VBUS": "rgb(221, 133, 0)",
-      "/VBUS_SWITCHED": "rgb(163, 96, 194)",
+      "/VBUS": "rgb(204, 102, 0)",
       "GND": "rgb(0, 0, 132)"
     },
     "netclass_assignments": null,
